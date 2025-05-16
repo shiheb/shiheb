@@ -17,7 +17,7 @@ I'm a Frontend / Fullstack Developer based in Berlin.
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=TypeScript&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![React Native](https://img.shields.io/badge/-ReactNative-61DAFB?style=flat-square&logo=react&logoColor=white)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![wordpress](https://img.shields.io/badge/-Wordpress-000000?style=flat-square&logo=wordpress&logoColor=white)
 ![html5](https://img.shields.io/badge/-HTML5-000000?style=flat-square&logo=html5&logoColor=white)
 ![php](https://img.shields.io/badge/-PHP-000000?style=flat-square&logo=php&logoColor=white)
@@ -26,7 +26,7 @@ I'm a Frontend / Fullstack Developer based in Berlin.
 ![jest](https://img.shields.io/badge/-Jest-000000?style=flat-square&logo=jest&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat-square&logo=docker&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/-Socket.io-000000?style=flat-square&logo=socketdotio&logoColor=white)
-![styledcomponents](https://img.shields.io/badge/-styledcomponents-000000?style=flat-square&logo=styledcomponents&logoColor=white)
+![styledcomponents](https://img.shields.io/badge/-Styledcomponents-000000?style=flat-square&logo=styledcomponents&logoColor=white)
 ![Atlassian](https://img.shields.io/badge/-Atlassian-000000?style=flat-square&logo=atlassian&logoColor=white)
 
 
