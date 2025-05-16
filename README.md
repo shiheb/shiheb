@@ -26,7 +26,7 @@ I'm a Frontend / Fullstack Developer based in Berlin.
 ![jest](https://img.shields.io/badge/-Jest-000000?style=flat-square&logo=jest&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat-square&logo=docker&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/-Socket.io-000000?style=flat-square&logo=socketdotio&logoColor=white)
-![styledcomponents](https://img.shields.io/badge/-Styledcomponents-000000?style=flat-square&logo=styledcomponents&logoColor=white)
+![styledcomponents](https://img.shields.io/badge/-Styled_Components-000000?style=flat-square&logo=styledcomponents&logoColor=white)
 ![Atlassian](https://img.shields.io/badge/-Atlassian-000000?style=flat-square&logo=atlassian&logoColor=white)
 
 
