@@ -3,9 +3,9 @@
 I'm a Frontend / Fullstack Developer based in Berlin.
 
 - 🔭 Currently working on: Senior Frontend Developer
-- 🌱 Learning: Jenkins and a bit more of Docker.
+- 🌱 Learning: Tailwind, Jenkins and a bit more of Docker.
 - 💬 Ask me about: Javascript, Typescript, React.js, Express.js, Wordpress, Node.js, MySQL, GraphQL, MongoDB, Cypress.io, Jest, AWS, PHP
-- ⚡ Fun fact: [A unique/humanizing detail]
+- ⚡ Fun fact: 
 
 ---
 
