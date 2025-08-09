@@ -41,7 +41,7 @@ I'm a Frontend / Fullstack Developer based in Berlin.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shiheb&show_icons=true&theme=transparent&count_private=true)
 
 
-[[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shiheb&repo=iptv-player)](https://github.com/shiheb/iptv-player)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shiheb&repo=iptv-player&theme=transparent)](https://github.com/shiheb/iptv-player)
 ---
 
 ## 📫 Connect With Me
