@@ -7,13 +7,6 @@ I'm a Frontend / Fullstack Developer based in Berlin.
 - 💬 Ask me about: Javascript, Typescript, React.js, Express.js, Wordpress, Node.js, MySQL, GraphQL, MongoDB, Cypress.io, Jest, AWS, PHP
 - ⚡ Fun fact: 
 
----
-
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/chiheb-hmida)
-[![Portfolio](https://img.shields.io/badge/Portfolio-grey?style=flat-square&logo=google-chrome)](https://chiheb-hmida.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail)](mailto:chiheb.hmida@gmail.com)
 
 ---
 
@@ -36,9 +29,15 @@ I'm a Frontend / Fullstack Developer based in Berlin.
 ![Styled Components](https://img.shields.io/badge/-Styled_Components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white)
 ![Atlassian](https://img.shields.io/badge/-Atlassian-0052CC?style=flat-square&logo=atlassian&logoColor=white)
 
-
-
 <!-- Add more badges for your tools -->
+
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/chiheb-hmida)
+[![Portfolio](https://img.shields.io/badge/Portfolio-grey?style=flat-square&logo=google-chrome)](https://chiheb-hmida.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail)](mailto:chiheb.hmida@gmail.com)
 
 ---
 
