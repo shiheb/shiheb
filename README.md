@@ -46,8 +46,8 @@ I'm a Frontend / Fullstack Developer based in Berlin.
 
 <!-- ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=shiheb&show_icons=true&theme=default) -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shiheb&show_icons=true&theme=transparent&count_private=true&layout=compact)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shiheb&theme=transparent)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shiheb&show_icons=true&theme=transparent&count_private=true)
 
 ## 📊 Contributions 
