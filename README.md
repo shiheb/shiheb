@@ -9,6 +9,14 @@ I'm a Frontend / Fullstack Developer based in Berlin.
 
 ---
 
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/chiheb-hmida)
+[![Portfolio](https://img.shields.io/badge/Portfolio-grey?style=flat-square&logo=google-chrome)](https://chiheb-hmida.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail)](mailto:chiheb.hmida@gmail.com)
+
+---
+
 ## 🛠️ Languages & Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -38,6 +46,8 @@ I'm a Frontend / Fullstack Developer based in Berlin.
 
 <!-- ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=shiheb&show_icons=true&theme=default) -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shiheb&show_icons=true&theme=transparent&count_private=true&layout=compact)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shiheb&theme=transparent)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shiheb&show_icons=true&theme=transparent&count_private=true)
 
 ## 📊 Contributions 
@@ -45,8 +55,3 @@ I'm a Frontend / Fullstack Developer based in Berlin.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shiheb&repo=iptv-player&theme=transparent)](https://github.com/shiheb/iptv-player)
 ---
 
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/chiheb-hmida)
-[![Portfolio](https://img.shields.io/badge/Portfolio-grey?style=flat-square&logo=google-chrome)](https://chiheb-hmida.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail)](mailto:chiheb.hmida@gmail.com)
